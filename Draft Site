@@ -1,8 +1,12 @@
 !DOCTYPE html
 <html>
-  <head>
-    <meta charset="uft-8">
-    <title>Ryan's Draft Site | CSC 106</title>
-  </head>
-  <body>
-  <img src=?>
+ <head>
+   <meta charset="uft-8">
+   <title>Ryan's Draft Site | CSC 106</title>
+ </head>
+ <body>
+   <h1>Ryan's Draft Site for CSC 106</h1>
+   <img src=csc106_banner.jpg>
+   <p>This is just a <strong><em>basic</em></strong> draft for the site.</p>
+ </body>
+</html>
